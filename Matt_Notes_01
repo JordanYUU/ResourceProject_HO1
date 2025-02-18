@@ -1,0 +1,22 @@
+1. Export from Foundry		
+2. Copy date and add yellow columns to Resourcing Analysis tab		
+3. Filtered and deleted our buyer codes starting with 2, 5, 6		
+4. Bring in exceptions, do a vlookup, and remove those POs		
+5. Bring in orders that were resourced or unable to resource from previous rounds		
+6. Recreate green tabs		
+7. Recreate blue tabs (template for suppliers)		
+8. Recreate bid tab nad bids received tab		
+9. Vlookups of pricing to "pivot by m&e - external"		
+10. Analysis on who won bid		
+11. Add column to analysis tab, do vlookup by M&E to bids received tab - this gives POs to resource, copy to new tab		
+12. Do analysis and create resource file (check against received POs from self serve data, check if project or not, and update reps for project POs)		
+	Look for: new PN	
+	Look for: include new pricing	
+	Insert in new supplier to resource to and vendor number	
+	Check if any past due POs are open with same vendor	
+	Pull order status from OOR export vlookup, pull project vs non from open OOR look up	
+		Exclude closed/canceled orders
+	Look for : any POs with exceptions	
+	Look for : previous POs unable to cancel or resource	
+Export tab to new book		
+Add in column status and summary tables		
