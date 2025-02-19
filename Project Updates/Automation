@@ -1,0 +1,4 @@
+# External M&E Pivot
+
+> Put VLOOKUP functions for bids (External M&E Pivot) within IFERROR function: Replaces #N/A values with integer '0' for bid winner calculation.
+> Automated Award column to display bid winner based on the highest bid: Works whether there's a single bid or multiple bids.
